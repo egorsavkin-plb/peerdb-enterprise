@@ -17,7 +17,7 @@ on:
           - peerdb-catalog
 
 env:
-  HELM_REPO_URL: "https://peerdb-io.github.io/peerdb-enterprise"
+  HELM_REPO_URL: "https://egorsavkin-plb.github.io/peerdb-enterprise"
 
 jobs:
   release-chart:
