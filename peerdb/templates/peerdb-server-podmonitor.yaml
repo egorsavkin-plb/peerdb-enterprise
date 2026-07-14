@@ -1,1 +1,0 @@
-{{- include "peerdb.podMonitor" (dict "root" $ "service" "peerdb" "component" "peerdb-server") }}
